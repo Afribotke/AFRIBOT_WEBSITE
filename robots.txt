@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.afribot.co.ke/sitemap.xml
